@@ -1,4 +1,6 @@
 # covid-tracker
+This is pretty much the start of my Vue js journey. This app was inpsired by 
+[this video created by Brad Traversy](https://www.youtube.com/watch?v=m-MAIpnH9ag)
 
 ## Project setup
 ```
