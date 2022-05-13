@@ -14,9 +14,7 @@ import moment from 'moment'
     name: 'DataTitle',
     props: ['text', 'dataDate'],
     computed: {
-      timestamp: function() {
-        return moment(this.dataDate).format('MMMM do YYYY, h:mm:ss a')
-      }
+      timestamp: function() {return moment(this.dataDate).format('MMMM do YYYY, h:mm:ss a')}
     }
   }
 </script>

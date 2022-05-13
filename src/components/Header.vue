@@ -9,7 +9,5 @@
 </template>
 
 <script>
-export default {
-  name: 'HeaderTemplate',
-}
+export default {name: 'HeaderTemplate'}
 </script>

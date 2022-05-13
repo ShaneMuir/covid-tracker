@@ -10,9 +10,7 @@
     name: 'CountrySelect',
     props: ['countries'],
     data() {
-      return {
-        selected: 0
-      }
+      return {selected: 0}
     },
     methods: {
       onChange() {

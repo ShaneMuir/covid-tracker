@@ -36,10 +36,6 @@
   export default {
     name: 'DataBoxes',
     props: ['stats'],
-    methods: {
-      numberWithCommas(x) {
-        return x.toLocaleString()
-      }
-    }
+    methods: {numberWithCommas(x) {return x.toLocaleString()}}
   }
 </script>

@@ -17,7 +17,6 @@
     </div>
     <img :src="loadingImage" class="w-24 m-auto" alt="" />
   </main>
-
 </template>
 
 <script>
